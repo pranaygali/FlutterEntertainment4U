@@ -17,7 +17,7 @@ class _TrendMoviesState extends State<TrendMovies> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Trending Movies'),
-        centerTitle: false,
+        centerTitle: true,
       ),
       body: Center(
         child: WebView(
