@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">310029258519-1ip1h78u1uii8k9sburm1of67m471pt7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">310029258519</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQK_hh4aB16kndBXqDxYlUH3on2eQCIbc</string>
+    <string name="google_app_id" translatable="false">1:310029258519:android:c03040d2263c207cb5f152</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQK_hh4aB16kndBXqDxYlUH3on2eQCIbc</string>
+    <string name="google_storage_bucket" translatable="false">entertainment4u-b4e3f.appspot.com</string>
+    <string name="project_id" translatable="false">entertainment4u-b4e3f</string>
+</resources>
