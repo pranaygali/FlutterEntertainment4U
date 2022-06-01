@@ -107,7 +107,7 @@ class AuthMethods {
 
         res = "success";
       } else {
-        res = "Please enter all the required fields";
+        res = "Please enter all the Required Fields";
       }
     } catch (err) {
       res = err.toString();
